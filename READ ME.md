@@ -82,7 +82,7 @@ These patterns suggest that casual riders and members use the bike-share service
 ## Visualizations
 
 ### Number of Rides by Rider Type
-![Number of Rides by Rider Type](Number of Rides by Rider Type.png) 
+![Number of Rides by Rider Type](Number%20of%20Rides%20by%20Rider%20Type.png)
 
 Members accounted for substantially more rides than casual riders in both Q1 2019 and Q1 2020.
 

@@ -22,7 +22,7 @@ The findings from this analysis are used to develop recommendations for a market
 
 ## Data Source
 
-The analysis uses Cyclistic/Divvy bike-share trip data from Q1 2019 and Q1 2020. The datasets contain information about individual bike rides, including ride start and end times, rider type, and station information.
+The analysis uses Cyclistic/Divvy bike-share trip data from Q1 2019 and Q1 2020. The datasets contain information about individual bike rides, including ride start and end times, rider type, and station information. The original Divvy trip data used for this analysis is publicly available through Motivate International Inc. under its data license agreement.
 
 For consistency across the two datasets, rider categories were standardized:
 - Customer → Casual

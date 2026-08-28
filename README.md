@@ -43,3 +43,38 @@ The following steps were performed:
 - Reviewed unusually long ride durations as potential data-quality issues.
 - Created pivot tables to compare ride counts and average ride duration by rider type and day of the week.
 - Analyzed Q1 2019 and Q1 2020 separately and created a combined summary of the results.
+
+## Analysis & Key Findings
+
+The analysis compared ride frequency and average ride duration between casual riders and members across Q1 2019 and Q1 2020.
+
+### Ride Frequency
+
+Members accounted for the majority of rides in both datasets.
+
+| Rider Type | Q1 2019 | Q1 2020 |
+|---|---:|---:|
+| Casual | 23,163 | 48,480 |
+| Member | 341,906 | 378,407 |
+| Total | 365,069 | 426,887 |
+
+This shows that members use the bike-share service much more frequently than casual riders.
+
+### Average Ride Length
+
+Although casual riders took fewer rides, their rides were substantially longer on average.
+
+| Rider Type | Q1 2019 | Q1 2020 |
+|---|---:|---:|
+| Casual | 1:01:57 | 1:35:47 |
+| Member | 0:13:54 | 0:12:41 |
+
+Casual riders had a much longer average ride duration in both periods. However, unusually long rides were identified in the datasets, which may have increased the average ride duration for casual riders. This should be considered when interpreting the results.
+
+### Day-of-Week Patterns
+
+The analysis also showed differences in riding patterns throughout the week.
+
+In Q1 2020, member ridership was substantially higher than casual ridership throughout the week. Member usage was especially high on weekdays, while casual ridership was relatively strongest on Sunday.
+
+These patterns suggest that casual riders and members use the bike-share service differently, providing an opportunity for targeted membership marketing.

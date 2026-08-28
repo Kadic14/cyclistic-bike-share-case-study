@@ -79,6 +79,23 @@ In Q1 2020, member ridership was substantially higher than casual ridership thro
 
 These patterns suggest that casual riders and members use the bike-share service differently, providing an opportunity for targeted membership marketing.
 
+## Visualizations
+
+### Number of Rides by Rider Type
+![Number of Rides by Rider Type](rides-by-rider-type.png)
+
+Members accounted for substantially more rides than casual riders in both Q1 2019 and Q1 2020.
+
+### Average Ride Length by Rider Type
+![Average Ride Length by Rider Type](average-ride-length.png)
+
+Casual riders took longer rides on average than members in both datasets.
+
+### Rides by Day of Week
+![Rides by Day of Week](rides-by-day-of-week.png)
+
+In Q1 2020, member ridership was highest during the weekdays, while casual ridership was relatively strongest on Sunday.
+
 ## Recommendations
 
 Based on the findings from this analysis, Cyclistic could consider the following strategies to encourage casual riders to become annual members:

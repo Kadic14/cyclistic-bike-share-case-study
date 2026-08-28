@@ -87,7 +87,7 @@ These patterns suggest that casual riders and members use the bike-share service
 Members accounted for substantially more rides than casual riders in both Q1 2019 and Q1 2020.
 
 ### Average Ride Length by Rider Type
-![Average Ride Length by Rider Type](average-ride-length.png)
+![Average Ride Length by Rider Type](Average Ride Length by Rider Type.png)
 
 Casual riders took longer rides on average than members in both datasets.
 

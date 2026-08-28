@@ -78,3 +78,26 @@ The analysis also showed differences in riding patterns throughout the week.
 In Q1 2020, member ridership was substantially higher than casual ridership throughout the week. Member usage was especially high on weekdays, while casual ridership was relatively strongest on Sunday.
 
 These patterns suggest that casual riders and members use the bike-share service differently, providing an opportunity for targeted membership marketing.
+
+## Recommendations
+
+Based on the findings from this analysis, Cyclistic could consider the following strategies to encourage casual riders to become annual members:
+
+1. **Target casual riders with weekend membership campaigns.**  
+   Casual ridership is relatively stronger on weekends, particularly Sunday. Cyclistic could concentrate membership advertising and promotions during these periods.
+
+2. **Promote the value of membership to frequent casual riders.**  
+   Since casual riders take longer rides on average, Cyclistic could highlight the convenience and potential value of annual membership to riders who use the service repeatedly.
+
+3. **Test targeted membership incentives.**  
+   Cyclistic could test limited-time membership trials or promotions aimed at casual riders and measure whether these campaigns increase membership conversions.
+
+## Conclusion
+
+The analysis found clear differences between casual riders and annual members. Members account for substantially more rides, while casual riders take longer rides on average and show relatively stronger weekend usage.
+
+These differences provide Cyclistic with opportunities to create more targeted marketing campaigns focused on converting casual riders into annual members.
+
+## Data Limitations
+
+The analysis was based on Q1 2019 and Q1 2020 data rather than a continuous full-year dataset. In addition, unusually long ride durations were identified and may influence average ride-length calculations. Because of these limitations, the results should be interpreted as patterns within the analyzed datasets rather than representing all Cyclistic riders throughout an entire year.

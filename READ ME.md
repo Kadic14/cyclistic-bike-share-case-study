@@ -87,12 +87,12 @@ These patterns suggest that casual riders and members use the bike-share service
 Members accounted for substantially more rides than casual riders in both Q1 2019 and Q1 2020.
 
 ### Average Ride Length by Rider Type
-![Average Ride Length by Rider Type](Average Ride Length by Rider Type.png)
+![Average Ride Length by Rider Type](Average%20Ride%20Length%20by%20Rider%20Type.png)
 
 Casual riders took longer rides on average than members in both datasets.
 
 ### Rides by Day of Week
-![Rides by Day of Week](rides-by-day-of-week.png)
+![Rides by Day of Week](2020%20Casual%20and%202020%20Member.png)
 
 In Q1 2020, member ridership was highest during the weekdays, while casual ridership was relatively strongest on Sunday.
 
